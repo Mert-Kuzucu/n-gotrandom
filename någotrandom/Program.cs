@@ -22,3 +22,6 @@ Console.WriteLine($"Ditt beskrivning om Levon var bra.");
 
 Console.WriteLine("Tryck på Enter för att avsluta. :D");
 Console.ReadLine();
+
+Console.WriteLine("Goodbye");
+Console.ReadLine();
